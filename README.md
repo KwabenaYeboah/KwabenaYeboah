@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <p>
 Kwabena Yeboah is my name and I am a Django developer. I am currently a level 300 student studying BSc. Computer Science at The University of Energy and Natural Resources, Sunyani Ghana.
+  
 A detailed-oriented, problem solving, Team Player, and Determination to learn and be challenged are the core pillars of my Software Engineering journey.
 
 ## Tech Stack
