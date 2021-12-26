@@ -29,7 +29,7 @@ A detailed-oriented, problem solving, Team Player, and Determination to learn an
 
 ## Tech Stack
 <p>
-Python[Django, Django Rest Framework, Machine Learning], PHP[Wordpress].
+Python[Django, Django Rest Framework, Machine Learning], Wordpress.
 
 **DevOps:** Git, Docker, Heroku.
 
