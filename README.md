@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KwabenaYeboah&show_icons=true&count_private=true&theme=monokai"  width=100%
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KwabenaYeboah&show_icons=true&count_private=true&theme=highcontrast"  width=100%
   height=auto />
 <br>
 <br>
