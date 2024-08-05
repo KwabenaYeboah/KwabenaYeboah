@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-Kwabena Yeboah is my name and I am a Django developer. I am currently a level 300 student studying BSc. Computer Science at The University of Energy and Natural Resources, Sunyani, Ghana.
+Kwabena Yeboah is my name and I am a Software Engineer. I attended the University of Energy and Natural Resources, Sunyani, Ghana.
   
-A detailed-oriented, problem solving, Team Player, and Determination to learn and be challenged are the core pillars of my Software Engineering journey.
+A detail-oriented, problem-solving, Team Player and Determination to learn and be challenged are the core pillars of my Software Engineering journey.
 
 ## Tech Stack
 <p>
-Python[Django, Django Rest Framework, Machine Learning], Wordpress.
+Python[Django, Django Rest Framework, Machine Learning], WordPress.
 
 **DevOps:** Git, Docker, Heroku.
 
